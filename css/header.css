@@ -1,0 +1,14 @@
+.header-top {
+    background: #0A76D8;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    align-items: center;
+    padding: 0.5em 3rem;
+}
+
+.header-top a {
+    color: white !important;
+    text-decoration: none;
+}
